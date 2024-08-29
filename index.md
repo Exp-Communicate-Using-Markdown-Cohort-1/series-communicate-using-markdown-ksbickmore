@@ -10,3 +10,7 @@ int main(){
   return 0;
 }
 ```
+
+- [ ] do this first
+- [ ] second
+- [ ] third
